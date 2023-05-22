@@ -425,6 +425,7 @@ footer .lower p::last-child {
   justify-content: flex-start;
   align-content: center;
   position: relative;
+  min-height: 130px;
 }
 #news ul li::before {
   content: "";
